@@ -1,4 +1,4 @@
-# java-cli-gradle-spring-forked-mongo-templ-generics-JAdventure
+# java-web-gradle-spring-forked-mongo-templ-generics-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
