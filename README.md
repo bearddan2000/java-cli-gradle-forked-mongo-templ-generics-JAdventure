@@ -1,4 +1,4 @@
-# java-cli-gradle-forked-mongo-templ-generics-JAdventure
+# java-cli-gradle-spring-forked-mongo-templ-generics-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -21,6 +21,7 @@ needed by Service and Repository layers.
 - java
 - gradle
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
